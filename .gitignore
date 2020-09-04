@@ -1,0 +1,15 @@
+## Directory-based project format:
+.idea/
+# IntelliJ
+/out/
+
+.idea_modules/
+
+# Maven
+target/
+pom.xml.tag
+
+logs/
+
+compiler.xml
+encodings.xml
